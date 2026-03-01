@@ -47,7 +47,7 @@ Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo. Estou c
 <br/>
 <br/>
 
-<a href="mailto:antonio92santos50@gmail.com" target="_blank">
+<a href="mailto:locthychan@gmail.com">
   <img 
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
     alt="Gmail"
