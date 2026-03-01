@@ -12,8 +12,13 @@ Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo. Estou c
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"
-    /></code>
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" 
+/>
 
 <img 
     align="left" 
