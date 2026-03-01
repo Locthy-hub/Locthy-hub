@@ -9,7 +9,7 @@ Atualmente, estou cursando Engenharia de Software na UNICID, onde venho me aprof
 
 Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo. Estou construindo minha trajetória na área de tecnologia com muito foco e entusiasmo, buscando crescer profissionalmente e contribuir de forma significativa em cada projeto que participo.
 
-**Aplicações e dados**
+**`Aplicações e dados`**
 
 <img 
     align="left" 
