@@ -47,7 +47,7 @@ Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo. Estou c
 <br/>
 <br/>
 
-<a href="mailto:locthychan@gmail.com">
+<a href="mailto:locthychan@gmail.com?subject=Contato%20pelo%20GitHub">
   <img 
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
     alt="Gmail"
