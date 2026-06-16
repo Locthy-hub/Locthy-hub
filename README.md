@@ -3,8 +3,6 @@
 **`Desenvolvedora FullStack`**
 
 Prazer, meu nome é Gabriela.
-Sou formada em Técnico em Administração e também em Eletrônica, áreas que me proporcionaram uma base sólida em organização, processos, raciocínio lógico e visão técnica.
-
 Atualmente, estou cursando Engenharia de Software na UNICID, onde venho me aprofundando cada vez mais no universo da tecnologia. Estou aprendendo linguagens de programação e descobrindo, na prática, o quanto gosto de desenvolver soluções, entender a lógica por trás dos sistemas e evoluir constantemente nesse campo.
 
 Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo. Estou construindo minha trajetória na área de tecnologia com muito foco e entusiasmo, buscando crescer profissionalmente e contribuir de forma significativa em cada projeto que participo.
