@@ -44,6 +44,21 @@ Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo. Estou c
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+**`Python`**
+
+<img 
+ align="left" 
+ alt="Python"
+ title="Python" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
 <br/>
 <br/>
 
