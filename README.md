@@ -1,4 +1,4 @@
-#  Gabriela
+#  Gabriel
 
 **`Desenvolvedora FullStack`**
 
