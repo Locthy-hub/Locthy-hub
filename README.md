@@ -30,7 +30,7 @@ Prazer, eu sou a Gabiih!
 Atualmente curso **Engenharia de Software**, onde venho me aprofundando cada vez mais no universo da tecnologia.
 Estou aprendendo linguagens de programação e descobrindo, na prática, o quanto gosto de desenvolver soluções, entender a lógica por trás dos sistemas e evoluir constantemente nesse campo.
 
-Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo, construindo minha trajetória na área de tecnologia com muito foco, fofura e entusiasmo. 
+Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo, construindo minha trajetória na área de tecnologia com muito foco e entusiasmo. 
 
 </div>
 
@@ -49,7 +49,7 @@ Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo, constru
 
 ---
 
-### <img src="https://media.tenor.com/AP7DLtNJEOsAAAAi/kuromi-cute-kuromi.gif" width="25px"> Tecnologias
+### <img src="https://media.tenor.com/cv-mG6U8vNEAAAAi/pixel-art-jump.gif" width="50px"> Tecnologias
 
 <div align="center">
 
@@ -75,7 +75,7 @@ Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo, constru
 
 ---
 
-### <img src="https://media.tenor.com/YOoRoAY0OEcAAAAi/cinnamoroll.gif" width="25px"> Atualmente estudando
+### <img src="https://media.tenor.com/YOoRoAY0OEcAAAAi/cinnamoroll.gif" width="50px"> Atualmente estudando
 
 <div align="center">
 
@@ -85,7 +85,7 @@ Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo, constru
 
 ---
 
-### <img src="https://media.tenor.com/2m8ynW9-mtIAAAAi/hello-kitty.gif" width="25px"> Minha evolução
+### <img src="https://media.tenor.com/2m8ynW9-mtIAAAAi/hello-kitty.gif" width="50px"> Minha evolução
 
 <div align="center">
 
@@ -97,7 +97,7 @@ Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo, constru
 
 ---
 
-### <img src="https://media.tenor.com/AP7DLtNJEOsAAAAi/kuromi-cute-kuromi.gif" width="25px"> Projetos em destaque
+### <img src="https://media.tenor.com/HHRhOXbMzrYAAAAi/cute.gif" width="50px"> Projetos em destaque
 
 <div align="center">
 
@@ -136,11 +136,11 @@ Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo, constru
 
 ---
 
-### <img src="https://media.tenor.com/AP7DLtNJEOsAAAAi/kuromi-cute-kuromi.gif" width="25px"> Contribuições
+### <img src="https://media.tenor.com/QXYXNdv9gggAAAAi/emoji-sanrio.gif" width="50px"> Contribuições
 
 <div align="center">
 
-<img src="https://media.tenor.com/AP7DLtNJEOsAAAAi/kuromi-cute-kuromi.gif" width="45px">
+<img src="https://media.tenor.com/FBDz57q3neMAAAAi/hello-kitty.gif" width="45px">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Locthy-hub/Locthy-hub/output/snake-dark.svg" />
@@ -155,7 +155,7 @@ Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo, constru
 <div align="center">
 
 <img src="https://media.tenor.com/2m8ynW9-mtIAAAAi/hello-kitty.gif" width="60px">
-<img src="https://media.tenor.com/AP7DLtNJEOsAAAAi/kuromi-cute-kuromi.gif" width="60px">
+<img src="https://media.tenor.com/3PFmYr6NEXsAAAAj/kuromi-thank-you.gif" width="100px">
 <img src="https://media.tenor.com/YOoRoAY0OEcAAAAi/cinnamoroll.gif" width="60px">
 
 <br/>
