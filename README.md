@@ -160,7 +160,7 @@ Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo, constru
 
 <br/>
 
-**Obrigada pela visita! Volte sempre 🩷**
+**Obrigada pela visita! Volte sempre**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD9,50:D8B4FE,100:121212&height=100&section=footer" width="100%"/>
 
