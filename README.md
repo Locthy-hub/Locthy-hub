@@ -1,8 +1,11 @@
-#  Gabriela
+<h1>
+  <img src="https://media.tenor.com/AP7DLtNJEOsAAAAi/kuromi-cute-kuromi.gif" width="38px" align="center">
+  Gabiih
+</h1>
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Full Stack`**
 
-Prazer, meu nome é Gabriela.
+Prazer,
 Atualmente, estou cursando Engenharia de Software, onde venho me aprofundando cada vez mais no universo da tecnologia. Estou aprendendo linguagens de programação e descobrindo, na prática, o quanto gosto de desenvolver soluções, entender a lógica por trás dos sistemas e evoluir constantemente nesse campo.
 
 Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo. Estou construindo minha trajetória na área de tecnologia com muito foco e entusiasmo, buscando crescer profissionalmente e contribuir de forma significativa em cada projeto que participo.
@@ -44,19 +47,15 @@ Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo. Estou c
 />
 
 
-<img 
- align="left" 
- alt="Python"
- title="Python" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
 />
 
-<br/>
-<br/>
-
-<br/>
-<br/>
+<br><br><br>
 
 
