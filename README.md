@@ -24,13 +24,14 @@
 
 ### <img src="https://media.tenor.com/YOoRoAY0OEcAAAAi/cinnamoroll.gif" width="25px"> Sobre mim
 
-<div align="center">
+<div ="center">
 
 Prazer, eu sou a Gabiih! 
 Atualmente curso **Engenharia de Software**, onde venho me aprofundando cada vez mais no universo da tecnologia.
 Estou aprendendo linguagens de programação e descobrindo, na prática, o quanto gosto de desenvolver soluções, entender a lógica por trás dos sistemas e evoluir constantemente nesse campo.
+Tenho conhecimentos em Python, Java, JavaScript, HTML, CSS, Git e GitHub, além de experiência com APIs, bancos de dados e desenvolvimento de aplicações web. Também possuo experiência em suporte técnico, configuração de sistemas e resolução de problemas relacionados à tecnologia.
 
-Sou uma pessoa dedicada, curiosa e sempre disposta a aprender algo novo, construindo minha trajetória na área de tecnologia com muito foco e entusiasmo. 
+Estou sempre em busca de aprimorar minhas habilidades e oferecer soluções de qualidade, com comunicação transparente e foco nas necessidades de cada cliente.
 
 </div>
 
