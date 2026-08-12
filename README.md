@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,50:D8B4FE,100:F8BBD9&height=200&section=header&text=Gabiih&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20Full%20Stack%20%F0%9F%92%9C&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,50:D8B4FE,100:F8BBD9&height=200&section=header&text=Gabiih&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -40,9 +40,6 @@ Estou sempre em busca de aprimorar minhas habilidades e oferecer soluções de q
 ### <img src="https://media.tenor.com/2m8ynW9-mtIAAAAi/hello-kitty.gif" width="25px"> GitHub Stats
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Locthy-hub&show_icons=true&count_private=true&hide_border=true&bg_color=121212&title_color=D8B4FE&text_color=F8BBD9&icon_color=BDEBFF"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locthy-hub&layout=compact&hide_border=true&bg_color=121212&title_color=D8B4FE&text_color=F8BBD9"/>
 
 <img src="https://streak-stats.demolab.com?user=Locthy-hub&hide_border=true&background=121212&ring=F8BBD9&fire=D8B4FE&currStreakLabel=BDEBFF&sideLabels=F8BBD9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F8BBD9"/>
 
