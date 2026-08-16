@@ -89,7 +89,7 @@ Estou sempre em busca de aprimorar minhas habilidades e oferecer soluções de q
 
 ☑️ HTML&nbsp;&nbsp;&nbsp;☑️ CSS&nbsp;&nbsp;&nbsp;☑️ JavaScript&nbsp;&nbsp;&nbsp;☑️ Git&nbsp;&nbsp;&nbsp;☑️ GitHub&nbsp;&nbsp;&nbsp;☑️ Python&nbsp;&nbsp;&nbsp;☑️ Java
 
-⬜ Spring Boot&nbsp;&nbsp;&nbsp;⬜ SQL&nbsp;&nbsp;&nbsp;⬜ Docker
+☑️ Spring Boot&nbsp;&nbsp;&nbsp;⬜ SQL&nbsp;&nbsp;&nbsp;⬜ Docker
 
 </div>
 
