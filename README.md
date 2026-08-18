@@ -114,7 +114,7 @@ Estou sempre em busca de aprimorar minhas habilidades e oferecer soluções de q
         <a href="https://github.com/Locthy-hub/logica-programacao"><img src="https://img.shields.io/badge/Ver%20Projeto-121212?style=for-the-badge&logoColor=F8BBD9"/></a>
       </p>
     </td>
-   <td width="50%">
+  <td width="50%">
       <img width="100%" src="https://opengraph.githubassets.com/1/Locthy-hub/sistema-bancario" alt="Sistema Bancário"/>
       <h4 align="center">🏦 Sistema Bancário</h4>
       <p align="center">Sistema bancário desenvolvido com Java e Spring Boot, com autenticação JWT, gerenciamento de clientes e contas, transferências, transações financeiras, idempotência, auditoria e migrations com Flyway.</p>
