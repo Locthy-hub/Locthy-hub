@@ -61,7 +61,7 @@ Estou sempre em busca de aprimorar minhas habilidades e oferecer soluções de q
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="40" title="C"/>
+
 
 **`Ferramentas`**
 
