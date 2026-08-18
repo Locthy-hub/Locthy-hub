@@ -114,20 +114,26 @@ Estou sempre em busca de aprimorar minhas habilidades e oferecer soluções de q
         <a href="https://github.com/Locthy-hub/logica-programacao"><img src="https://img.shields.io/badge/Ver%20Projeto-121212?style=for-the-badge&logoColor=F8BBD9"/></a>
       </p>
     </td>
-    </td> <td width="50%">
-      <img width="100%" src="https://opengraph.githubassets.com/1/Locthy-hub/clima-dashboard" alt="Clima Dashboard"/> 
-      <h4 align="center">🌤️ Clima Dashboard</h4> 
-      <p align="center">Painel de clima em tempo real feito do zero, sem frameworks: busca de cidades, geolocalização, gráfico horário desenhado em Canvas, favoritos com LocalStorage e PWA instalável funcionando offline, consumindo a API Open-Meteo.</p>
-      <p align="center"> 
-        <img src="https://img.shields.io/badge/JavaScript-F8BBD9?style=for-the-badge&logo=javascript&logoColor=121212"/> 
-        <img src="https://img.shields.io/badge/CSS3-D8B4FE?style=for-the-badge&logo=css3&logoColor=121212"/> 
-        <img src="https://img.shields.io/badge/HTML5-BDEBFF?style=for-the-badge&logo=html5&logoColor=121212"/> </p> 
-        <p align="center"> 
-        <a href="https://github.com/Locthy-hub/clima-dashboard"><img src="https://img.shields.io/badge/Ver%20Projeto-121212?style=for-the-badge&logoColor=F8BBD9"/></a> 
-         </p>
+   <td width="50%">
+      <img width="100%" src="https://opengraph.githubassets.com/1/Locthy-hub/sistema-bancario" alt="Sistema Bancário"/>
+      <h4 align="center">🏦 Sistema Bancário</h4>
+      <p align="center">Sistema bancário desenvolvido com Java e Spring Boot, com autenticação JWT, gerenciamento de clientes e contas, transferências, transações financeiras, idempotência, auditoria e migrations com Flyway.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-F8BBD9?style=for-the-badge&logo=openjdk&logoColor=121212"/>
+        <img src="https://img.shields.io/badge/Spring%20Boot-D8B4FE?style=for-the-badge&logo=springboot&logoColor=121212"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-BDEBFF?style=for-the-badge&logo=postgresql&logoColor=121212"/>
+        <img src="https://img.shields.io/badge/Docker-F8BBD9?style=for-the-badge&logo=docker&logoColor=121212"/>
+        <img src="https://img.shields.io/badge/JWT-D8B4FE?style=for-the-badge&logo=jsonwebtokens&logoColor=121212"/>
+        <img src="https://img.shields.io/badge/Flyway-BDEBFF?style=for-the-badge&logo=flyway&logoColor=121212"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Locthy-hub/sistema-bancario"><img src="https://img.shields.io/badge/Ver%20Projeto-121212?style=for-the-badge&logoColor=F8BBD9"/></a>
+      </p>
     </td>
   </tr>
 </table>
+
+</div>
 
 </div>
 
