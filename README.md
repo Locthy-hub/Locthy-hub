@@ -1,30 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,50:D8B4FE,100:F8BBD9&height=200&section=header&text=Gabiih&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://media.tenor.com/AP7DLtNJEOsAAAAi/kuromi-cute-kuromi.gif" width="60px">
 
-</div>
+<h1>Gabiih</h1>
 
-<h1 align="center">
-  <img src="https://media.tenor.com/AP7DLtNJEOsAAAAi/kuromi-cute-kuromi.gif" width="35px" align="center">
-  Oi, eu sou a Gabiih!
-  <img src="https://media.tenor.com/AP7DLtNJEOsAAAAi/kuromi-cute-kuromi.gif" width="35px" align="center">
-</h1>
-
-<div align="center">
+**`Desenvolvedora Full Stack`**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2500&pause=800&color=D8B4FE&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack+%F0%9F%92%9C;Estudante+de+Engenharia+de+Software;Java+%E2%80%A2+JavaScript+%E2%80%A2+Python;Sempre+aprendendo+algo+novo+%E2%9C%A8)](https://git.io/typing-svg)
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90">
-</p>
+</div>
 
 ---
 
 ### <img src="https://media.tenor.com/YOoRoAY0OEcAAAAi/cinnamoroll.gif" width="25px"> Sobre mim
 
-<div ="center">
+<div align=>
 
 Prazer, eu sou a Gabiih! 
 Atualmente curso **Engenharia de Software**, onde venho me aprofundando cada vez mais no universo da tecnologia.
@@ -41,7 +33,7 @@ Estou sempre em busca de aprimorar minhas habilidades e oferecer soluções de q
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Locthy-hub&hide_border=true&background=121212&ring=F8BBD9&fire=D8B4FE&currStreakLabel=BDEBFF&sideLabels=F8BBD9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F8BBD9"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Locthy-hub&hide_border=true&background=121212&ring=F8BBD9&fire=D8B4FE&currStreakLabel=BDEBFF&sideLabels=F8BBD9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F8BBD9"/>
 
 </div>
 
@@ -51,45 +43,18 @@ Estou sempre em busca de aprimorar minhas habilidades e oferecer soluções de q
 
 <div align="center">
 
-**`Frontend`**
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-
-**`Backend`**
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-
-
-**`Ferramentas`**
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
-
-</div>
-
----
-
-### <img src="https://media.tenor.com/YOoRoAY0OEcAAAAi/cinnamoroll.gif" width="50px"> Atualmente estudando
-
-<div align="center">
-
-🌸 Java &nbsp;•&nbsp; 🌸 Estrutura de Dados &nbsp;•&nbsp; 🌸 Engenharia de Software
-
-</div>
-
----
-
-### <img src="https://media.tenor.com/2m8ynW9-mtIAAAAi/hello-kitty.gif" width="50px"> Minha evolução
-
-<div align="center">
-
-☑️ HTML&nbsp;&nbsp;&nbsp;☑️ CSS&nbsp;&nbsp;&nbsp;☑️ JavaScript&nbsp;&nbsp;&nbsp;☑️ Git&nbsp;&nbsp;&nbsp;☑️ GitHub&nbsp;&nbsp;&nbsp;☑️ Python&nbsp;&nbsp;&nbsp;☑️ Java
-
-☑️ Spring Boot&nbsp;&nbsp;&nbsp;☑️ SQL&nbsp;&nbsp;&nbsp;☑️ Docker
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
 
 </div>
 
@@ -132,8 +97,6 @@ Estou sempre em busca de aprimorar minhas habilidades e oferecer soluções de q
     </td>
   </tr>
 </table>
-
-</div>
 
 </div>
 
