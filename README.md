@@ -68,16 +68,18 @@ Estou sempre em busca de aprimorar minhas habilidades e oferecer soluções de q
 <table>
   <tr>
     <td width="50%">
-      <img width="100%" src="https://opengraph.githubassets.com/1/Locthy-hub/logica-programacao" alt="Lógica de Programação — Do Zero ao Avançado"/>
-      <h4 align="center">🧠 Lógica de Programação — Do Zero ao Avançado</h4>
-      <p align="center">Curso gratuito em português com teoria explicada do zero, 20 módulos progressivos, banco com 250 exercícios e 20 projetos práticos guiados, todo em pseudocódigo/Portugol.</p>
+      <img width="100%" src="https://opengraph.githubassets.com/1/Locthy-hub/portfolio-dashboard" alt="GitHub Portfolio Dashboard"/>
+      <h4 align="center">📊 GitHub Portfolio Dashboard</h4>
+      <p align="center">Dashboard integrado à API do GitHub via OAuth, exibindo perfil, repositórios com filtros, pull requests recentes, estatísticas e gráfico de linguagens mais usadas</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Markdown-F8BBD9?style=for-the-badge&logo=markdown&logoColor=121212"/>
-        <img src="https://img.shields.io/badge/Portugol-D8B4FE?style=for-the-badge&logoColor=121212"/>
-        <img src="https://img.shields.io/badge/Lógica-BDEBFF?style=for-the-badge&logoColor=121212"/>
+        <img src="https://img.shields.io/badge/React-F8BBD9?style=for-the-badge&logo=react&logoColor=121212"/>
+        <img src="https://img.shields.io/badge/TypeScript-D8B4FE?style=for-the-badge&logo=typescript&logoColor=121212"/>
+        <img src="https://img.shields.io/badge/Vite-BDEBFF?style=for-the-badge&logo=vite&logoColor=121212"/>
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-F8BBD9?style=for-the-badge&logo=tailwindcss&logoColor=121212"/>
+        <img src="https://img.shields.io/badge/OAuth-D8B4FE?style=for-the-badge&logoColor=121212"/>
       </p>
       <p align="center">
-        <a href="https://github.com/Locthy-hub/logica-programacao"><img src="https://img.shields.io/badge/Ver%20Projeto-121212?style=for-the-badge&logoColor=F8BBD9"/></a>
+        <a href="https://github.com/Locthy-hub/portfolio-dashboard"><img src="https://img.shields.io/badge/Ver%20Projeto-121212?style=for-the-badge&logoColor=F8BBD9"/></a>
       </p>
     </td>
   <td width="50%">
