@@ -18,7 +18,7 @@
 
 <div align=>
 
-Prazer, eu sou a Gabiih! 
+Prazer,
 Atualmente curso **Engenharia de Software**, onde venho me aprofundando cada vez mais no universo da tecnologia.
 Estou aprendendo linguagens de programação e descobrindo, na prática, o quanto gosto de desenvolver soluções, entender a lógica por trás dos sistemas e evoluir constantemente nesse campo.
 Tenho conhecimentos em Python, Java, JavaScript, HTML, CSS, Git e GitHub, além de experiência com APIs, bancos de dados e desenvolvimento de aplicações web. Também possuo experiência em suporte técnico, configuração de sistemas e resolução de problemas relacionados à tecnologia.
