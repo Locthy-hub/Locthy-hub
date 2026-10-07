@@ -1,10 +1,10 @@
-<div align="center">
+
 
 <img src="https://media.tenor.com/AP7DLtNJEOsAAAAi/kuromi-cute-kuromi.gif" width="60px">
 
-<h1>Gabiih</h1>
 
-**`Desenvolvedora Full Stack`**
+
+**`Dev Full Stack`**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2500&pause=800&color=D8B4FE&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack+%F0%9F%92%9C;Estudante+de+Engenharia+de+Software;Java+%E2%80%A2+JavaScript+%E2%80%A2+Python;Sempre+aprendendo+algo+novo+%E2%9C%A8)](https://git.io/typing-svg)
 
